@@ -1,0 +1,2 @@
+the game will consist of a monster trying to not fall down the sky, jumping to other tiles in order to progress, but being attacked by different enemies and having to dodge them. if hit, he can lose hp or be knocked down entirely, depending on the oponnent that hit him
+the name of the green monster will be greeno
